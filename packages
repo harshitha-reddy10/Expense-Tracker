@@ -1,0 +1,9 @@
+🔹 Packages / Modules Used
+
+csv → To read and write data to a CSV file
+
+os → To check if the CSV file already exists
+
+
+> ✅ Both are built-in Python modules, so no external installation is needed.
+You just need Python 3 installed on your system.
