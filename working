@@ -1,0 +1,7 @@
+Add expenses with date, category, amount, and description
+
+View all recorded expenses in a table format
+
+Calculate the total expenses easily
+
+Data is saved in a CSV file so it remains even after the program is closed
